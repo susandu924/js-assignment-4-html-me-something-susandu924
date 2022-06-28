@@ -1,1 +1,52 @@
-/* Write your CSS here! */
+.styleImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.content {
+    max-width: 800px;
+    margin: auto;
+    
+}
+.multi-bg {
+width: 100%;
+height: 400px;
+background-color: white,
+/*background-image: url(../html-me-something/images/dot\ zentangle.jpg);*/
+}
+body {
+margin: 8px;
+display:block;
+color: white;
+ 
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-repeat: no-repeat;
+background-size: auto;
+}
+/*backgroundImage {
+background-image: image("dot zentangle.jpg")
+;
+}*/
+#mainHeading {
+color:red;
+background-color: black;   
+}
+h1{
+font-size:72px;
+}
+article {
+color:black;
+font-size: 18px;   
+}
+.funParagraph {
+color:green;
+font-size: 18px;
+} 
+footer {
+background-color: black;
+color:red;
+}
+p {
+text-align: center;
+}
